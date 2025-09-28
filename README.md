@@ -1,16 +1,18 @@
-## Hi there 👋
+# Hi, I'm Samra 👋
 
-<!--
-**Samra-420/Samra-420** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+🎓 BSCS  Student  
+📱 Currently learning Android Development   
+💻 Learning Java, Kotlin & Firebase  
+🚀 Passionate about building Mobile Applications  
 
-Here are some ideas to get you started:
+---
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+
+### 📌 Projects (Coming Soon...)
+- 📱 Android Apps  
+- 💡 Learning projects with Java & Kotlin  
+
+---
+ 
+ 
+
