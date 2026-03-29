@@ -3,7 +3,7 @@
 🎓 BSCS Student at Kahuta Institute of Space & Technology
 
 ## About Me
-- 📚 Currently studying Computer Science (Semester 5)
+- 📚 Currently studying Computer Science (Semester 6)
 - 💻 Learning C#, .NET and AI-based Application Development
 - 📱 Passionate about Android & Mobile App Development
 - 🤖 Built AI-based projects using .NET & Mobile Technologies
