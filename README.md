@@ -63,7 +63,7 @@ I'm a passionate Computer Science student who loves building **smart desktop and
 
 ## 📊 GitHub Stats
 
-![Samra's GitHub stats](https://github-readme-stats.vercel.app/api?username=Samra-420&show_icons=true&theme=radical)
+
 
 ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Samra-420&layout=compact&theme=radical)
 
